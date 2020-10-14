@@ -3,11 +3,12 @@ def new_hash
 end
 
 def my_hash
-  hash[:newKey] = "New Value"
+  hash[:dog_name] = "Simi"
   # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
+  hash[:name] = "Grace Hopper"
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
