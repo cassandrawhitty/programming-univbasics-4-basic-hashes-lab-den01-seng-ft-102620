@@ -2,8 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash
-  hash[:dog_name] = "Simi"
+def my_hash 
+  dog_name: "Simi"
   # return a valid hash with any key/value pair of your choice
 end
 
