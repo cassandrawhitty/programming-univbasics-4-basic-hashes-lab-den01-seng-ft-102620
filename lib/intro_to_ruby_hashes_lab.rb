@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash 
-  dogs = { "dog_name" => Simi }
+  dogs = { "dog_name" => "Simi" }
   # return a valid hash with any key/value pair of your choice
 end
 
